@@ -1,0 +1,8 @@
+Data-Set Description
+
+
+NSL-KDD and KDDcup99 are two benchmark datasets commonly used for evaluating intrusion detection systems (IDS) and anomaly detection methods.
+
+NSL-KDD dataset is an improved version of the popular KDD Cup '99 dataset that was created to overcome some of the limitations and biases present in the original dataset. It includes a more diverse set of attacks, with additional features to better represent network traffic characteristics. It has 41 features, including 34 continuous and 7 nominal features, and consists of five types of attacks : DoS, Probe, R2L, U2R, and normal.
+
+Data Set Link :- https://archive.ics.uci.edu/ml/machine-learningdatabases/kddcup99-mld/ 
